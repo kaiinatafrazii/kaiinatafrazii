@@ -13,7 +13,7 @@ Currently, I'm learning and working with **HTML, CSS, JavaScript, and Node.js**,
 * 💻 Working with **HTML, CSS, JavaScript & Node.js**
 * 🌱 Currently improving my **JavaScript and backend development** skills
 * 🚀 Building practical and responsive web applications
-* 🔧 Exploring **Node.js, Express.js & REST APIs**
+* 🔧 Exploring **Node.js & REST APIs**
 * 🤝 Open to collaborating on web development projects
 * 📚 Always learning and experimenting with new technologies
 
@@ -22,11 +22,11 @@ Currently, I'm learning and working with **HTML, CSS, JavaScript, and Node.js**,
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode" />
 </p>
 
 **Frontend:** HTML5 · CSS3 · JavaScript
-**Backend:** Node.js · Express.js
+**Backend:** Node.js
 **Tools:** Git · GitHub · VS Code
 
 ---
@@ -36,9 +36,9 @@ Currently, I'm learning and working with **HTML, CSS, JavaScript, and Node.js**,
 * JavaScript Fundamentals & ES6+
 * DOM Manipulation
 * Asynchronous JavaScript
-* Node.js & Express.js
+* Node.js
 * REST API Development
-* Backend Architecture
+* Backend Development
 * Git & GitHub
 * Database Integration
 
@@ -52,7 +52,7 @@ Building responsive and interactive applications using **HTML, CSS and JavaScrip
 
 ### ⚙️ Node.js Applications
 
-Developing backend applications and **REST APIs using Node.js and Express.js**.
+Developing backend applications and APIs using **Node.js**.
 
 > 🚧 More projects coming soon...
 
@@ -62,7 +62,7 @@ Developing backend applications and **REST APIs using Node.js and Express.js**.
 
 * Build real-world web applications
 * Become proficient in modern JavaScript
-* Master Node.js & Express.js
+* Strengthen Node.js development
 * Learn database management
 * Build and deploy production-ready applications
 * Contribute to open-source projects
